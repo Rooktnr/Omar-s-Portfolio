@@ -1,0 +1,62 @@
+.subHeading{
+    font-weight: 300;
+    color:white;
+    }
+    
+    body{
+    background:#23252D !important;
+    }
+    
+    .container{
+    color:#CACACC;
+    }
+    
+    .smallerImg{
+    width:20%;
+    }
+    
+    i:hover{
+    color:white !important;
+    }
+    
+    .changeLogDetails{
+    font-weight: 300;
+    color:white;
+    }
+    
+    .liUpdates{
+    list-style: none;
+    }
+    .updates:hover{
+    color:#E9BC3F;
+    }
+    .speakerBio{
+    background: #2f313b;
+    color:white;
+    line-height: 1.8em;
+    }
+
+#linkedin{
+color:#0077B5;
+}
+#facebook{
+color:#3b5998;
+}
+
+#github{
+color:#6e5494;
+}
+
+#freeCodeCamp{
+color:#006400;
+}
+
+.hiddenHighlights{
+    display:block;
+    display:none;
+}
+
+div#showText{
+    display:block;
+    display:none;
+}
