@@ -56,7 +56,19 @@ color:#006400;
     display:none;
 }
 
-div#showText{
+.hiddenHeader{
     display:block;
     display:none;
+}
+
+.hiddenReleases{
+    display:block;
+    display:none;
+}
+.speakerBio{
+display:block;
+display:none;
+}
+.bio{
+    background-color: #E9BC3F;
 }
